@@ -1,0 +1,56 @@
+{
+  "appTitle": "QR Creator",
+  "enterTextHint": "Enter text or URL...",
+  "createQr": "CREATE QR",
+  "pleaseEnterText": "Please enter text",
+
+  "download": "Download",
+  "share": "Share",
+  "favorite": "Favorite",
+
+  "history": "History",
+  "create": "Create",
+  "scan": "Scan",
+
+  "waitingInput": "Waiting for input...",
+
+  "addToFavorite": "Add to Favorite",
+  "favoriteHint": "E.g. Website, Home WiFi...",
+  "cancel": "Cancel",
+  "save": "Save",
+  "unnamedQr": "Unnamed QR",
+  "addedToFavorites": "Added to Favorites! ❤️",
+
+  "savedGallery": "Saved to gallery successfully! ✅",
+  "imageNotCaptured": "Image could not be captured ❌",
+  "permissionError": "Permission error",
+  "unexpectedError": "Unexpected error",
+  "imageCreateError": "Image could not be created ❌",
+  "genericError": "An error occurred",
+
+  "textCopied": "Text copied! 📋",
+  "recordDeleted": "Record deleted",
+  "historyRecords": "History Records",
+  "noHistoryYet": "No history yet",
+  "copy": "Copy",
+  "delete": "Delete",
+  "errorMsg": "Error: ",
+
+  "notALink": "This data is not a link! ❌",
+  "linkOpenError": "Link could not be opened or is invalid! ❌",
+  "savedToGalleryCamera": "Saved to Gallery! 📸",
+  "galleryPermissionError": "Please grant gallery access permission! ❌",
+  "qrScannedFromGallery": "QR scanned from gallery",
+  "noQrInImage": "No valid QR code found in this image. ❌",
+  "scanSuccessful": "Scan Successful!",
+  "goToLink": "Go to Link",
+  "copiedToClipboard": "Copied to clipboard! 📋",
+  "scanQrTitle": "Scan QR",
+  "scanAgain": "Scan Again",
+  "selectFromGallery": "Select from Gallery",
+
+  "favoriteSavedToGallery": "Favorite saved to gallery! ",
+  "myFavorites": "My Favorites",
+  "noFavoritesYet": "No favorites yet 💔",
+  "qrFavoritesAlbum": "QR Favorites"
+}

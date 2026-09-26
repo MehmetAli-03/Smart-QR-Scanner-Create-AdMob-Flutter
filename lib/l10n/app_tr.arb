@@ -1,0 +1,56 @@
+{
+  "appTitle": "QR Creator",
+  "enterTextHint": "Metin veya URL girin...",
+  "createQr": "QR OLUŞTUR",
+  "pleaseEnterText": "Lütfen metin girin",
+
+  "download": "İndir",
+  "share": "Paylaş",
+  "favorite": "Favori",
+
+  "history": "Geçmiş",
+  "create": "Oluştur",
+  "scan": "Tara",
+
+  "waitingInput": "Veri girişi bekleniyor...",
+
+  "addToFavorite": "Favoriye Ekle",
+  "favoriteHint": "Örn: Web Sitem, Ev WiFi...",
+  "cancel": "İptal",
+  "save": "Kaydet",
+  "unnamedQr": "İsimsiz QR",
+  "addedToFavorites": "Favorilere Eklendi! ❤️",
+
+  "savedGallery": "Galeriye başarıyla kaydedildi! ",
+  "imageNotCaptured": "Fotoğraf yakalanamadı ❌",
+  "permissionError": "İzin hatası",
+  "unexpectedError": "Beklenmedik hata",
+  "imageCreateError": "Görüntü oluşturulamadı ❌",
+  "genericError": "Bir hata oluştu",
+
+  "textCopied": "Metin kopyalandı! 📋",
+  "recordDeleted": "Kayıt silindi",
+  "historyRecords": "Geçmiş Kayıtlar",
+  "noHistoryYet": "Henüz geçmiş kayıt yok",
+  "copy": "Kopyala",
+  "delete": "Sil",
+  "errorMsg": "Hata: ",
+
+  "notALink": "Bu veri bir link değil! ❌",
+  "linkOpenError": "Link açılamadı veya geçersiz! ❌",
+  "savedToGalleryCamera": "Galeriye Kaydedildi! 📸",
+  "galleryPermissionError": "Lütfen galeriye erişim izni verin! ❌",
+  "qrScannedFromGallery": "QR Galeriye İndirildi",
+  "noQrInImage": "Bu fotoğrafta geçerli bir QR kod bulunamadı. ❌",
+  "scanSuccessful": "Tarama Başarılı!",
+  "goToLink": "Linke Git",
+  "copiedToClipboard": "Panoya kopyalandı! 📋",
+  "scanQrTitle": "QR Tara",
+  "scanAgain": "Yeniden Tara",
+  "selectFromGallery": "Galeriden Seç",
+
+  "favoriteSavedToGallery": "Favori galeriye kaydedildi! ✅",
+    "myFavorites": "Favorilerim",
+    "noFavoritesYet": "Henüz favori yok 💔",
+    "qrFavoritesAlbum": "QR Favorites"
+}
