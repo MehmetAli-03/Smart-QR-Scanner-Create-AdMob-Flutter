@@ -36,7 +36,7 @@ class AdService {
     _isAdLoading = true;
 
     InterstitialAd.load(
-      adUnitId: "ca-app-pub-3564360157775786/5747753609",
+      adUnitId: "your_id",
       request: const AdRequest(),
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (ad) {
